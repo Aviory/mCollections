@@ -1,0 +1,5 @@
+C:\Users\Кудесник\documents\visual studio 2010\Projects\LList2_2\LList2_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Кудесник\documents\visual studio 2010\Projects\LList2_2\LList2_2\bin\Debug\LList2_2.dll
+C:\Users\Кудесник\documents\visual studio 2010\Projects\LList2_2\LList2_2\bin\Debug\LList2_2.pdb
+C:\Users\Кудесник\documents\visual studio 2010\Projects\LList2_2\LList2_2\obj\Debug\LList2_2.dll
+C:\Users\Кудесник\documents\visual studio 2010\Projects\LList2_2\LList2_2\obj\Debug\LList2_2.pdb
